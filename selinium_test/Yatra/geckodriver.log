@@ -1,0 +1,138 @@
+1660578650907	geckodriver	INFO	Listening on 127.0.0.1:59754
+1660578653985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3R3S8Z"
+1660578654303	Marionette	INFO	Marionette enabled
+1660578654309	Marionette	INFO	Listening on port 59766
+WebDriver BiDi listening on ws://localhost:59755
+Read port: 59766
+1660578654456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3R3S8Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59755/devtools/browser/51166d81-aecc-4fad-b97d-5140611a5ed8
+1660578657585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660578864816	Marionette	INFO	Stopped listening on port 59766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660578869654	geckodriver	INFO	Listening on 127.0.0.1:59998
+1660578872752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileEMqOOS"
+1660578873088	Marionette	INFO	Marionette enabled
+1660578873092	Marionette	INFO	Listening on port 60010
+WebDriver BiDi listening on ws://localhost:59999
+Read port: 60010
+1660578873346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileEMqOOS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59999/devtools/browser/1d5570db-3906-4895-ad34-07adf6c3b12a
+1660578876570	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660579894092	Marionette	INFO	Stopped listening on port 60010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuxGT5P"
+1660579791606	Marionette	INFO	Marionette enabled
+1660579791610	Marionette	INFO	Listening on port 60928
+WebDriver BiDi listening on ws://localhost:60916
+Read port: 60928
+1660579791809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileuxGT5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60916/devtools/browser/e238330c-dca9-449f-8e3c-07e4de139d47
+1660579796174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660579823836	Marionette	INFO	Stopped listening on port 60928
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660579856046	geckodriver	INFO	Listening on 127.0.0.1:61078
+1660579859108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilehYYR0x"
+1660579859435	Marionette	INFO	Marionette enabled
+1660579859441	Marionette	INFO	Listening on port 61090
+WebDriver BiDi listening on ws://localhost:61079
+Read port: 61090
+1660579859687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilehYYR0x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61079/devtools/browser/08102d7e-609d-49e3-b0b9-93726c22b8d4
+1660579862853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660579868595	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660579896200	Marionette	INFO	Stopped listening on port 61090
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660579925695	geckodriver	INFO	Listening on 127.0.0.1:61231
+1660579928761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileIwkdNI"
+1660579929087	Marionette	INFO	Marionette enabled
+1660579929091	Marionette	INFO	Listening on port 61243
+WebDriver BiDi listening on ws://localhost:61232
+Read port: 61243
+1660579929343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileIwkdNI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61232/devtools/browser/384b1a78-e71e-4eb2-9ee6-1ff794465fff
+1660579932943	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.yatracdn.com/content/holidays/js/common/yatrahelper.js?v=28.10.2021, line 328: unreachable code after return statement
+JavaScript warning: https://secure.yatra.com/l9vGzS3iF3WtOlKcP-24/ucfYpkXLbEY3/HFFCUAE/Wk8R/QyYEZlU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660580308947	Marionette	INFO	Stopped listening on port 61243
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660580440980	geckodriver	INFO	Listening on 127.0.0.1:61844
+1660580444033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiletr20QJ"
+1660580444453	Marionette	INFO	Marionette enabled
+1660580444458	Marionette	INFO	Listening on port 61857
+WebDriver BiDi listening on ws://localhost:61845
+Read port: 61857
+1660580444598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiletr20QJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61845/devtools/browser/ae605a14-995e-4bc1-969b-24f057378421
+1660580447626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660580453579	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660580454885	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660580557567	Marionette	INFO	Stopped listening on port 61857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660580560534	geckodriver	INFO	Listening on 127.0.0.1:62034
+1660580563514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile1VHpTt"
+1660580563918	Marionette	INFO	Marionette enabled
+1660580563923	Marionette	INFO	Listening on port 62046
+WebDriver BiDi listening on ws://localhost:62035
+Read port: 62046
+1660580564111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile1VHpTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62035/devtools/browser/310253fe-b620-4731-b689-6fe9a76883ce
+1660580567045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660580570778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660580572057	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660586880747	Marionette	INFO	Stopped listening on port 62046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileKB5ub0"
+1660585084378	Marionette	INFO	Marionette enabled
+1660585084384	Marionette	INFO	Listening on port 65046
+WebDriver BiDi listening on ws://localhost:65035
+Read port: 65046
+1660585084616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileKB5ub0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65035/devtools/browser/b998b3e6-875b-4005-a334-26b5766b378a
+1660585090487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660585095025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660585096376	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660586882555	Marionette	INFO	Stopped listening on port 65046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNmmvv8"
+1660585258846	Marionette	INFO	Marionette enabled
+1660585258856	Marionette	INFO	Listening on port 65254
+WebDriver BiDi listening on ws://localhost:65243
+Read port: 65254
+1660585259176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileNmmvv8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65243/devtools/browser/7fc30f8e-be97-4c64-a83f-54a980c0c8a9
+1660585264177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660585267349	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660585268309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660585270995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/9Uqy/NZAF/T4IAp/wmbR/A/ba3bQwhV/CyJwZQ/Xw/NUMEQVUkk, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660585282404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660586884215	Marionette	INFO	Stopped listening on port 65254
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
